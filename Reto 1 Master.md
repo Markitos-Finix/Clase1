@@ -10,14 +10,8 @@ Puede encargarse o no de darle servicio a los servidores.
 Solo pagas la heramienta que utilices, no estas obligado a pagar todo el conjunto.
 
 **Empresas que utlizan la nube (2021):**
-Facebook\n
-Youtube\n
-Mercedez
-Spotify
-Microsoft (Actualmente esta en primer lugar de las empresas que proveen nube)
-Google
-Hotmail
-Oracle
-IBM
+Facebook, Youtube, Mercedez, Spotify, Microsoft (Actualmente esta en primer lugar de las empresas que proveen nube), Google, Hotmail, Oracle, IBM
+
+
 
 Torres Iturbide Marco
