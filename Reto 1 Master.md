@@ -1,6 +1,6 @@
 # Reto-1
 
-**### ¿Que es la nube?**
+**# ¿Que es la nube#?**
 Es un servicio proporcionado por grandes compañias como Microssoft, Oracle, Dell, entre otros, que su principal funcion es alojar grandes cantidades
 de informacion en servidores, donde a su vez se puede utilizar las herramientas que proporciona cada empresa para cada uno de sus nubes; algunas de estas son almacenamiento de datos, ejecución de programas, creacion de maquinas virutales, inteligencia artificial, base de datos, etc.
 
